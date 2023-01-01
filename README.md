@@ -1,9 +1,9 @@
-# Employee_Attrition_Analysis
+## Employee_Attrition_Analysis
 Course group project using Python
 
-# BUDT 704 Group Project
-## Project Summary
-### Project Information
+## BUDT 704 Group Project
+### Project Summary
+#### Project Information
 * Project title: What’s the variable?
 * Group name: Datatrons
 * Team names:
